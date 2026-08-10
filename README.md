@@ -14,7 +14,7 @@ A Python project completed as part of a freeCodeCamp workshop.
 
 ## Technologies
 
-- Python
+- Python 3
 
 ## Source
 freeCodeCamp
